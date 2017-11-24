@@ -1,0 +1,8 @@
+{
+  "name": "whiskey-diary-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TylerKirby/whiskey-diary-server.git",
+  "author": "Tyler Kirby <tyler.kirby9398@gmail.com>",
+  "license": "MIT"
+}

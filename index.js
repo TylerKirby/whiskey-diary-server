@@ -1,3 +1,5 @@
 import express from 'express';
 
-console.log('It works!');
+const app = express();
+
+app.set('port', 3000);
